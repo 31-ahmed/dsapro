@@ -827,7 +827,7 @@ label{
   padding: 0 13px 0 8px;
 }
 .action-btn:hover {
-  background: #f6416c none repeat scroll 0 0;
+  background: #3eb666 none repeat scroll 0 0;
   border-radius: 25px;
   color: #fff;
   font-size: 14px;
@@ -835,7 +835,7 @@ label{
   width: auto;
 }
 .action-btn:hover i {
-  box-shadow: 2px 2px 2px 0 #b02e4d;
+  box-shadow: 2px 2px 2px 0 #43b365;
   color: #fff;
 }
 .product-slider .owl-nav {
@@ -855,8 +855,8 @@ label{
   transition: .3s;
 }
 .product-slider .owl-nav div:hover {
-  border: 1px solid #f6416c;
-  color: #f6416c;
+  border: 1px solid #38bb79;
+  color: #3aa159;
 }
 .product-slider .owl-prev {
   float: left;
@@ -879,7 +879,7 @@ label{
 }
 .product-slider .owl-nav::after {
   background: #fff none repeat scroll 0 0;
-  border: 1px solid #f6416c;
+  border: 1px solid #3baa69;
   border-radius: 100%;
   height: 8px;
   top: 7px;
@@ -1187,7 +1187,7 @@ label{
   width: 33px;
 }
 .shop-menu a.active {
-  background: #f6416c none repeat scroll 0 0;
+  background: #41c96e none repeat scroll 0 0;
   border-color: transparent;
 }
 .shop-menu a.active i {
@@ -1233,7 +1233,7 @@ label{
   width: 33px;
 }
 .shop-pagination a:hover, .shop-pagination li.active a {
-  background: #F6416C none repeat scroll 0 0;
+  background: #33c98f none repeat scroll 0 0;
   color: #fff;
 }
 .shop-pagination ul li a i {
@@ -1294,7 +1294,7 @@ label{
 }
 .widget-categories ul li a:hover {
   background: #dedede none repeat scroll 0 0;
-  color: #f6416c;
+  color: #3aca76;
 }
 .widget-categories ul li:hover a {}
 .sidebar-title {
@@ -1349,7 +1349,7 @@ label{
   text-transform: uppercase;
 }
 .widget-brand ul li a:hover {
-  color: #f6416c;
+  color: #3bc585;
 }
 .shop-list .col-lg-12 {
   margin-bottom: 30px;
@@ -1410,18 +1410,18 @@ label{
   padding: 30px 20px;
 }
 .ui-widget-content {
-  background: #f6416c none repeat scroll 0 0;
+  background: #36b87b none repeat scroll 0 0;
   border: medium none;
   height: 3px;
   top: 2px;
 }
 .ui-widget-content {
-  background: #f6416c none repeat scroll 0 0;
-  border: 1px solid #f6416c;
+  background: #38b97d none repeat scroll 0 0;
+  border: 1px solid #2fb366;
 }
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
   background: #fff none repeat scroll 0 0;
-  border: 1px solid #f6416c;
+  border: 1px solid #32ad70;
 }
 .ui-slider .ui-slider-handle {
   border-radius: 100%;
@@ -1565,7 +1565,7 @@ label{
   margin-bottom: 0;
 }
 .single-support:hover h3 a, .single-support:hover i {
-  color: #F6416C;
+  color: #42c072;
 }
 .our-team-area .best-sell-2-brief {
   border: 1px solid #dedede;
@@ -1662,8 +1662,8 @@ label{
   width: 22px;
 }
 .table-content table td.product-remove i:hover {
-  border-color: #F6416C;
-  color: #F6416C;
+  border-color: #3db45b;
+  color: #46b980;
 }
 .table-content table .product-price .amount {
   font-size: 15px;
@@ -1760,7 +1760,7 @@ label{
   padding: 10px 20px;
 }
 .wishlist-table .product-add-to-cart a:hover {
-  background: #f6416c none repeat scroll 0 0;
+  background: #34c07f none repeat scroll 0 0;
 }
 .shopping-cart-area.wishlist-area {
   margin-bottom: 30px;
@@ -1776,7 +1776,7 @@ label{
 }
 .coupon-accordion h3 {
   background-color: #dedede;
-  border-top: 3px solid #f6416c;
+  border-top: 3px solid #36b676;
   color: #555;
   font-size: 14px;
   font-weight: 400;
@@ -1799,7 +1799,7 @@ label{
   cursor: pointer;
 }
 .coupon-accordion span:hover, p.lost-password a:hover {
-    color: #eb3b60;
+    color: #4bbd7a;
 }
 .coupon-content {
     border: 1px solid #e5e5e5;
@@ -1826,7 +1826,7 @@ label{
 .coupon-info p.form-row-last {
 }
 .coupon-info p.form-row input[type="submit"]:hover, p.checkout-coupon input[type="submit"]:hover {
-    background: #f6416c none repeat scroll 0 0;
+    background: #4aac62 none repeat scroll 0 0;
 }
 .coupon-info p.form-row input[type="checkbox"] {
     position: relative;
@@ -1839,7 +1839,7 @@ p.lost-password {
     margin-top: 15px;
 }
 p.lost-password a {
-  color: #f6416c;
+  color: #49b86e;
 }
 p.checkout-coupon {
 }
@@ -1850,7 +1850,7 @@ p.checkout-coupon input[type="text"] {
     border: 1px solid #e5e5e5;
 }
 p.checkout-coupon input[type="submit"] {
-  background: #f6416c none repeat scroll 0 0;
+  background: #2ca75f none repeat scroll 0 0;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -1894,7 +1894,7 @@ p.checkout-coupon input[type="submit"] {
 .coupon input[type="submit"]:hover,
 .coupon-info p.form-row input[type="submit"]:hover,
 .comment-respond input[type="submit"]:hover {
-  background: #f6416c  none repeat scroll 0 0;
+  background: #44c77f  none repeat scroll 0 0;
 }
 .title-7 {
   font-size: 20px;
@@ -1932,7 +1932,7 @@ p.checkout-coupon input[type="submit"] {
   font-weight: 700;
 }
 .product-total.order-total {
-  color: #f6416c;
+  color: #3db97b;
 }
 .payment-method {
   border: 1px solid #e5e5e5;
@@ -1997,7 +1997,7 @@ top: -6px;}
   transition: all 0.3s ease 0s;
 }
 .order-button-payment input:hover {
-  background: #f6416c  none repeat scroll 0 0;
+  background: #32aa68  none repeat scroll 0 0;
 }
 .payment-content {
   display: none;
